@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi👋, I'm Débora!! 🌎
 
-<!--
-**DeboraEsposito/DeboraEsposito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I'm web developer in training!
+
+📚 I'm in the learning process;
+
+🏗️ I accept constructive criticism;
+
+💬 Ask me anything, I'm happy to help;
+
+📬 deboraesposito17@gmail.com
+
+🔗 https://www.linkedin.com/in/debora-costa-neves-esposito-064194142/
+
+
+
+
+
+
+
+

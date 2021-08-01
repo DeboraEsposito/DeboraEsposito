@@ -9,7 +9,7 @@
 
 
  <div>
-  <img align="right" height="145" width="210" margin="0" padding="0" alt="Gif-deby" src="https://media.tenor.com/images/750db375022ec37821f4a862b87f85c0/tenor.gif"> 
+  <img align="right" height="100" margin="0" padding="0" alt="Gif-deby" src="https://media.tenor.com/images/750db375022ec37821f4a862b87f85c0/tenor.gif"> 
   <a href="https://github.com/deboraesposito">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=deboraesposito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboraesposito&layout=compact&langs_count=7&theme=dracula"/>

@@ -17,7 +17,7 @@
   
   <a href="https://github.com/deboraesposito">
   <img height="200em" width="500" src="https://github-readme-stats.vercel.app/api?username=deboraesposito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="right" display="flex" height="150" alt="Gif-deby" src="https://tenor.com/view/booyah-felicia-day-gif-13057137"> 
+  <img align="right" display="flex" height="150" alt="Gif-deby" src="https://tenor.com/view/dancing-felicia-day-charlie-supernatural-felicia-day-dancing-gif-5390789"> 
   <img height="200em" widht="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboraesposito&layout=compact&langs_count=7&theme=dracula"/>
      
  </div>

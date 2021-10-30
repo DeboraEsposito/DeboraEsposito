@@ -17,7 +17,7 @@
   
   <a href="https://github.com/deboraesposito">
   <img height="200em" width="500" src="https://github-readme-stats.vercel.app/api?username=deboraesposito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="right" display="flex" height="150" alt="Gif-deby" src="<div class="tenor-gif-embed" data-postid="13057137" data-share-method="host" data-aspect-ratio="1.78571" data-width="100%"><a href="https://tenor.com/view/booyah-felicia-day-gif-13057137">Booyah Felicia Day GIF</a>from <a href="https://tenor.com/search/booyah-gifs">Booyah GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>"> 
+  <img align="right" display="flex" height="150" alt="Gif-deby" src="https://tenor.com/view/booyah-felicia-day-gif-13057137"> 
   <img height="200em" widht="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboraesposito&layout=compact&langs_count=7&theme=dracula"/>
      
  </div>

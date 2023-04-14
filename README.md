@@ -16,8 +16,8 @@
  <div>
   
   <a href="https://github.com/deboraesposito">
-  <img height="250em" width="500" src="https://github-readme-stats.vercel.app/api?username=deboraesposito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="200em" widht="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboraesposito&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" width="450" src="https://github-readme-stats.vercel.app/api?username=deboraesposito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="200em" widht="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboraesposito&layout=compact&langs_count=7&theme=dracula"/>
      
  </div>
  
